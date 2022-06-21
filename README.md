@@ -1,4 +1,7 @@
-### Hi there 👋
+### Como faz para
+editar o README do perfil do Github?
+
+Enfim você deveria aprender mais C e Lisp
 
 <!--
 **HDK101/HDK101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
